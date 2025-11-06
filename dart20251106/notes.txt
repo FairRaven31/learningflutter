@@ -1,0 +1,19 @@
+Types of parameters
+
+1. Positional parameters
+the og parameters. when called, you must match the order of the functional signature
+void greet(String name, int age)
+greet("Alice",25)
+
+2. Optional parameters
+the cool lil bro. these are optional during the functional call
+void greet(String name, int age)
+greet("Alice")
+greet("Alice",25)
+
+
+3. Named parameters
+the nice type of parameters. when called, you provide values by calling the name.
+you don't have to match the order
+void greet({String name, int age})
+greet(name: "Alice",age: 25)

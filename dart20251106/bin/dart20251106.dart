@@ -36,8 +36,32 @@
 //   question5.question5Solution();
 // }
 // _____________________________________________________________________________
-import 'package:dart20251106/question6.dart' as question6;
+// import 'package:dart20251106/question6.dart' as question6;
+
+// void main() {
+//   question6.question6Solution();
+// }
+// _____________________________________________________________________________
+// import 'package:dart20251106/question7.dart' as questtion7;
+
+// void main() {
+//   questtion7.question7Solution();
+// }
+// _____________________________________________________________________________
+// import 'package:dart20251106/question8.dart' as question8;
+
+// void main() {
+//   question8.question8Solution();
+// }
+// _____________________________________________________________________________
+// import 'package:dart20251106/question9.dart';
+
+// void main() {
+//   question9Solution();
+// }
+// _____________________________________________________________________________
+import 'package:dart20251106/question10.dart';
 
 void main() {
-  question6.question6Solution();
+  question10Solution();
 }

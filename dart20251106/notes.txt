@@ -17,3 +17,12 @@ the nice type of parameters. when called, you provide values by calling the name
 you don't have to match the order
 void greet({String name, int age})
 greet(name: "Alice",age: 25)
+
+
+Classes and objects
+Classes are the blueprints, objects are the discrete representations
+
+class className {
+
+}
+
